@@ -158,7 +158,7 @@ src/
 #### セットアップ
 
 ```bash
-git clone https://github.com/markReo-code/oneplus-ec.git
+git clone https://github.com/kaiminato/Next-One-Plus.git
 cd oneplus-ec
 npm install
 npm run dev
